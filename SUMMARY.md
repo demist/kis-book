@@ -1,11 +1,11 @@
 # Table of contents
 
-* [Основная информация](README.md)
+* [Стартовая](README.md)
 
 ## Информация
 
-* [Объявления](informaciya/obyavleniya.md)
-* [Диплом](informaciya/diplom.md)
+* [Объявления](obyavleniya.md)
+* [Диплом](diplom.md)
 
 ## Полезные ссылки
 
@@ -25,4 +25,4 @@
 
 ## Поступление на кафедру
 
-* [Правила поступления на кафедру в 2023 году](postuplenie-na-kafedru/pravila-postupleniya-na-kafedru-v-2023-godu.md)
+* [Правила поступления на кафедру в 2023 году](pravila-postupleniya-na-kafedru-v-2023-godu.md)
