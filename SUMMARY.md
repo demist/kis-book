@@ -1,9 +1,11 @@
 # Table of contents
 
 * [Основная информация](README.md)
-* [Объявления](obyavleniya.md)
-* [Диплом](diplom.md)
-* [Правила поступления на кафедру в 2023 году](pravila-postupleniya-na-kafedru-v-2023-godu.md)
+
+## Информация
+
+* [Объявления](informaciya/obyavleniya.md)
+* [Диплом](informaciya/diplom.md)
 
 ## Полезные ссылки
 
@@ -20,3 +22,7 @@
 * [4 курс](https://docs.google.com/spreadsheets/d/1Ar7iuT5nt4t4N0zpXf0Z4fBRq9fU22VWhemwozl22oU/edit#gid=0)
 * [5 курс](https://docs.google.com/spreadsheets/d/1vQp3o89438hvvp3xekBq5x43s2OVhfBntsTFbnr9qIo/edit#gid=1063828500)
 * [6 курс](https://docs.google.com/spreadsheets/d/1g\_OMguRv1cKFVA6-vpxsrkvEJDxlBN3nZpRqA2z07es/edit#gid=1276113275)
+
+## Поступление на кафедру
+
+* [Правила поступления на кафедру в 2023 году](postuplenie-na-kafedru/pravila-postupleniya-na-kafedru-v-2023-godu.md)
