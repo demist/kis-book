@@ -6,6 +6,7 @@
 
 * [Объявления](obyavleniya.md)
 * [Диплом](diplom.md)
+* [Защиты 2023](informaciya/zashity-2023.md)
 
 ## Полезные ссылки
 
