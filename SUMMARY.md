@@ -14,7 +14,7 @@
 
 * [Запущенные курсы (весна 2023)](https://docs.google.com/spreadsheets/d/1Vx1BbTtrY06xhZ\_bea4cB8booakotw5kAcV5xO1VtbI/edit?usp=sharing)
 * [Расписание](https://sites.google.com/view/kiscalendar/main)
-* [Курсы кафедры (v.23.01)](https://docs.google.com/spreadsheets/d/15jEmcTpRQv43BxzPzR21yLZXaZ-ELs0y6byN9Qnk1cc/edit?usp=sharing)
+* [Курсы кафедры (v.23.07)](https://docs.google.com/spreadsheets/d/15jEmcTpRQv43BxzPzR21yLZXaZ-ELs0y6byN9Qnk1cc/edit?usp=sharing)
 * [Краткие описания курсов (v.23.01)](https://docs.google.com/document/d/1S2ueMM2G\_\_ZSkDVVUzO4Vgf4CfsoauFNsXb3P2L1rhI/edit?usp=sharing)
 
 ## Оценки
