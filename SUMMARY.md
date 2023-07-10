@@ -7,6 +7,7 @@
 * [Объявления](obyavleniya.md)
 * [Диплом](diplom.md)
 * [Защиты 2023](informaciya/zashity-2023.md)
+* [Выбор курсов для запуска](informaciya/vybor-kursov-dlya-zapuska.md)
 
 ## Полезные ссылки
 
