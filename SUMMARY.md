@@ -20,10 +20,9 @@
 
 ## Оценки
 
-* [3 курс](https://docs.google.com/spreadsheets/d/14g6TGDM5bEt91L\_0-27UtNYfHS9gsqeuwgAyjin5xuA/edit?usp=sharing)
-* [4 курс](https://docs.google.com/spreadsheets/d/1Ar7iuT5nt4t4N0zpXf0Z4fBRq9fU22VWhemwozl22oU/edit#gid=0)
-* [5 курс](https://docs.google.com/spreadsheets/d/1vQp3o89438hvvp3xekBq5x43s2OVhfBntsTFbnr9qIo/edit#gid=1063828500)
-* [6 курс](https://docs.google.com/spreadsheets/d/1g\_OMguRv1cKFVA6-vpxsrkvEJDxlBN3nZpRqA2z07es/edit#gid=1276113275)
+* [4 курс](https://docs.google.com/spreadsheets/d/14g6TGDM5bEt91L\_0-27UtNYfHS9gsqeuwgAyjin5xuA/edit#gid=615482154)
+* [5 курс](https://docs.google.com/spreadsheets/d/1Ar7iuT5nt4t4N0zpXf0Z4fBRq9fU22VWhemwozl22oU/edit#gid=0)
+* [6 курс](https://docs.google.com/spreadsheets/d/1vQp3o89438hvvp3xekBq5x43s2OVhfBntsTFbnr9qIo/edit#gid=1063828500)
 
 ## Поступление на кафедру
 
