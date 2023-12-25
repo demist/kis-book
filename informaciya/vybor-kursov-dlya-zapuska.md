@@ -50,3 +50,14 @@ _(прошлые формулировки утеряны из-за бана ка
 <mark style="color:red;">**ФОРМА ДЛЯ ВЫБОРА КУРСОВ**</mark> (ЕЕ НАДО ЗАПОЛНИТЬ): [ТУТ](https://forms.gle/m2JPsYE9C5QwHjHKA)
 
 Посмотреть свои ответы можно [тут](https://docs.google.com/spreadsheets/d/1m5fGYale40TL11luojGPDxlP-EcaJ8Vj0-IQMlae2sM/edit?usp=sharing).
+
+### Весна  - 2024
+
+Выбор курсов открывается 25 декабря. \
+<mark style="color:red;">**Дедлайн по выбору курсов**</mark>** - 9 января включительно.**
+
+Обновленная таблица кафедральных курсов - [версия 23.12](https://docs.google.com/spreadsheets/d/15jEmcTpRQv43BxzPzR21yLZXaZ-ELs0y6byN9Qnk1cc/edit#gid=615482154).
+
+<mark style="color:red;">**ФОРМА ДЛЯ ВЫБОРА КУРСОВ**</mark>** -** ЕЕ НАДО ЗАПОЛНИТЬ**:** [**ТУТ**](https://forms.gle/krDLTyMdQMxfcL4Y9)
+
+Посмотреть свои ответы можно [тут](https://docs.google.com/spreadsheets/d/1ygIccpigmRt8BadH\_yJyh0vzlivAHZzkcGzgyem7Fyc/edit?usp=sharing).&#x20;
