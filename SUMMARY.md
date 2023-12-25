@@ -15,7 +15,7 @@
 
 * [Запущенные курсы (осень 2023)](https://docs.google.com/spreadsheets/d/1m5fGYale40TL11luojGPDxlP-EcaJ8Vj0-IQMlae2sM/edit?usp=sharing)
 * [Расписание](https://docs.google.com/spreadsheets/d/1hcgyiA9rjXOPaWAtNms6\_I9nKIcA2v71I3u15r6EJk8/edit?usp=sharing)
-* [Курсы кафедры (v.23.07)](https://docs.google.com/spreadsheets/d/15jEmcTpRQv43BxzPzR21yLZXaZ-ELs0y6byN9Qnk1cc/edit?usp=sharing)
+* [Курсы кафедры (v.23.12)](https://docs.google.com/spreadsheets/d/15jEmcTpRQv43BxzPzR21yLZXaZ-ELs0y6byN9Qnk1cc/edit?usp=sharing)
 * [Краткие описания курсов (v.23.01)](https://docs.google.com/document/d/1S2ueMM2G\_\_ZSkDVVUzO4Vgf4CfsoauFNsXb3P2L1rhI/edit?usp=sharing)
 
 ## Оценки
