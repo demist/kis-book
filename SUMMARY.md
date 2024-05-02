@@ -6,7 +6,7 @@
 
 * [Объявления](obyavleniya.md)
 * [Диплом](diplom.md)
-* [Защиты 2023](informaciya/zashity-2023.md)
+* [Защиты 2024](informaciya/zashity-2024.md)
 * [Выбор курсов для запуска](informaciya/vybor-kursov-dlya-zapuska.md)
 
 ## Полезные ссылки
@@ -28,4 +28,8 @@
 ## Поступление на кафедру
 
 * [Правила поступления на кафедру в 2024 году](postuplenie-na-kafedru/pravila-postupleniya-na-kafedru-v-2024-godu.md)
-* [Правила поступления на кафедру в 2023 году](pravila-postupleniya-na-kafedru-v-2023-godu.md)
+
+## Архив <a href="#archive" id="archive"></a>
+
+* [Защиты 2023](archive/zashity-2023.md)
+* [Правила поступления на кафедру в 2023 году](archive/pravila-postupleniya-na-kafedru-v-2023-godu.md)
