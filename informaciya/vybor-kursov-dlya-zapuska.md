@@ -62,3 +62,14 @@ _(прошлые формулировки утеряны из-за бана ка
 <mark style="color:red;">**ФОРМА ДЛЯ ВЫБОРА КУРСОВ**</mark>** -** ЕЕ НАДО ЗАПОЛНИТЬ**:** [**ТУТ**](https://forms.gle/krDLTyMdQMxfcL4Y9)
 
 Посмотреть свои ответы можно [тут](https://docs.google.com/spreadsheets/d/1ygIccpigmRt8BadH\_yJyh0vzlivAHZzkcGzgyem7Fyc/edit?usp=sharing).&#x20;
+
+### Осень - 2024
+
+Выбор курсов открывается 3 июля. \
+<mark style="color:red;">**Дедлайн по выбору курсов**</mark>** - 21 июля включительно.**
+
+Обновленная таблица кафедральных курсов - [версия 24.07](https://docs.google.com/spreadsheets/d/15jEmcTpRQv43BxzPzR21yLZXaZ-ELs0y6byN9Qnk1cc/edit?gid=615482154#gid=615482154).
+
+<mark style="color:red;">**ФОРМА ДЛЯ ВЫБОРА КУРСОВ**</mark>** -** ЕЕ НАДО ЗАПОЛНИТЬ**:** [**ТУТ**](https://forms.gle/sou1iLGsJszebvYm9)
+
+Посмотреть свои ответы можно [тут](https://docs.google.com/spreadsheets/d/1e8wLF\_0PbmbX7g7Y4clwQ\_PYhOm9s68nlN6jDEhsLVs/edit?usp=sharing).&#x20;
