@@ -6,13 +6,12 @@
 
 * [Объявления](obyavleniya.md)
 * [Диплом](diplom.md)
-* [Защиты 2024](informaciya/zashity-2024.md)
 * [Выбор курсов для запуска](informaciya/vybor-kursov-dlya-zapuska.md)
 
 ## Полезные ссылки
 
-* [Запущенные курсы (осень 2023)](https://docs.google.com/spreadsheets/d/1m5fGYale40TL11luojGPDxlP-EcaJ8Vj0-IQMlae2sM/edit?usp=sharing)
-* [Расписание](https://docs.google.com/spreadsheets/d/1hcgyiA9rjXOPaWAtNms6\_I9nKIcA2v71I3u15r6EJk8/edit?usp=sharing)
+* [Запущенные курсы + расписание (осень 2024)](https://docs.google.com/spreadsheets/d/1e8wLF\_0PbmbX7g7Y4clwQ\_PYhOm9s68nlN6jDEhsLVs/edit?gid=1004758658#gid=1004758658)
+* [Google-Календарь кафедры](https://calendar.google.com/calendar/embed?src=t9rqj2c666grs12ivonrlo08c0%40group.calendar.google.com\&ctz=Europe%2FMoscow)
 * [Курсы кафедры (v.24.07)](https://docs.google.com/spreadsheets/d/15jEmcTpRQv43BxzPzR21yLZXaZ-ELs0y6byN9Qnk1cc/edit?usp=sharing)
 * [Краткие описания курсов (v.24.01)](https://docs.google.com/document/d/1e9ACzL9-VtC5PMC65fJwKs75timASS\_H62BiKy5la64/edit?pli=1#heading=h.3i94uhcp0t1v)
 
@@ -30,4 +29,5 @@
 ## Архив <a href="#archive" id="archive"></a>
 
 * [Защиты 2023](archive/zashity-2023.md)
+* [Защиты 2024](archive/zashity-2024.md)
 * [Правила поступления на кафедру в 2023 году](archive/pravila-postupleniya-na-kafedru-v-2023-godu.md)
