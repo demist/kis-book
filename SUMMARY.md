@@ -12,8 +12,8 @@
 
 * [Запущенные курсы + расписание (осень 2024)](https://docs.google.com/spreadsheets/d/1e8wLF_0PbmbX7g7Y4clwQ_PYhOm9s68nlN6jDEhsLVs/edit?gid=1004758658#gid=1004758658)
 * [Google-Календарь кафедры](https://calendar.google.com/calendar/embed?src=t9rqj2c666grs12ivonrlo08c0%40group.calendar.google.com\&ctz=Europe%2FMoscow)
-* [Курсы кафедры (v.24.07)](https://docs.google.com/spreadsheets/d/15jEmcTpRQv43BxzPzR21yLZXaZ-ELs0y6byN9Qnk1cc/edit?usp=sharing)
-* [Краткие описания курсов (v.24.12)](https://docs.google.com/document/d/1e9ACzL9-VtC5PMC65fJwKs75timASS_H62BiKy5la64/edit?pli=1#heading=h.3i94uhcp0t1v)
+* [Курсы кафедры (v.24.12)](https://docs.google.com/spreadsheets/d/15jEmcTpRQv43BxzPzR21yLZXaZ-ELs0y6byN9Qnk1cc/edit?usp=sharing)
+* [Краткие описания курсов (v.24.07)](https://docs.google.com/document/d/1e9ACzL9-VtC5PMC65fJwKs75timASS_H62BiKy5la64/edit?pli=1#heading=h.3i94uhcp0t1v)
 
 ## Оценки
 
