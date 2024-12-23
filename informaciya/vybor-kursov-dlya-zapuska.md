@@ -12,8 +12,8 @@ _(прошлые формулировки утеряны из-за бана ка
 {% endhint %}
 
 1. Курсы можно выбирать "<mark style="color:purple;">**очно**</mark>", можно "<mark style="color:green;">**экстерном**</mark>".\
-   _<mark style="color:purple;">**Очно**</mark> -_ означает, что вы ходите на пары, сдаете курс (все как обычно).\
-   _<mark style="color:green;">**Экстерном**</mark>_ - вы считаете, что владеете темой, и хотите просто подтвердить свои знания / умения / навыки. В таком формате вы можете не ходить на пары, а для сдачи курса - сдать экзамен / пройти собеседование / выполнить задание и т.п. (в разных дисциплинах условия разные).&#x20;
+   &#xNAN;_<mark style="color:purple;">**Очно**</mark> -_ означает, что вы ходите на пары, сдаете курс (все как обычно).\
+   &#xNAN;_<mark style="color:green;">**Экстерном**</mark>_ - вы считаете, что владеете темой, и хотите просто подтвердить свои знания / умения / навыки. В таком формате вы можете не ходить на пары, а для сдачи курса - сдать экзамен / пройти собеседование / выполнить задание и т.п. (в разных дисциплинах условия разные).&#x20;
 2. <mark style="color:green;">**Экстерны**</mark> сдаются **строго** до определенной даты. \
    В осеннем семестре - **до 1 декабря.** \
    В весеннем семестре - **до 1 мая.**
@@ -46,7 +46,7 @@ _(прошлые формулировки утеряны из-за бана ка
 
 Обновленная таблица кафедральных курсов - [версия 23.07](https://docs.google.com/spreadsheets/d/15jEmcTpRQv43BxzPzR21yLZXaZ-ELs0y6byN9Qnk1cc/edit?usp=sharing).
 
-Описания курсов [тут](https://docs.google.com/document/d/1S2ueMM2G\_\_ZSkDVVUzO4Vgf4CfsoauFNsXb3P2L1rhI/edit?usp=sharing) (еще будет обновляться).
+Описания курсов [тут](https://docs.google.com/document/d/1S2ueMM2G__ZSkDVVUzO4Vgf4CfsoauFNsXb3P2L1rhI/edit?usp=sharing) (еще будет обновляться).
 
 <mark style="color:red;">**ФОРМА ДЛЯ ВЫБОРА КУРСОВ**</mark> (ЕЕ НАДО ЗАПОЛНИТЬ): [ТУТ](https://forms.gle/m2JPsYE9C5QwHjHKA)
 
@@ -55,21 +55,32 @@ _(прошлые формулировки утеряны из-за бана ка
 ### Весна  - 2024
 
 Выбор курсов открывается 25 декабря. \
-<mark style="color:red;">**Дедлайн по выбору курсов**</mark>** - 9 января включительно.**
+<mark style="color:red;">**Дедлайн по выбору курсов**</mark>**&#x20;- 9 января включительно.**
 
 Обновленная таблица кафедральных курсов - [версия 23.12](https://docs.google.com/spreadsheets/d/15jEmcTpRQv43BxzPzR21yLZXaZ-ELs0y6byN9Qnk1cc/edit#gid=615482154).
 
-<mark style="color:red;">**ФОРМА ДЛЯ ВЫБОРА КУРСОВ**</mark>** -** ЕЕ НАДО ЗАПОЛНИТЬ**:** [**ТУТ**](https://forms.gle/krDLTyMdQMxfcL4Y9)
+<mark style="color:red;">**ФОРМА ДЛЯ ВЫБОРА КУРСОВ**</mark>**&#x20;-** ЕЕ НАДО ЗАПОЛНИТ&#x42C;**:** [**ТУТ**](https://forms.gle/krDLTyMdQMxfcL4Y9)
 
-Посмотреть свои ответы можно [тут](https://docs.google.com/spreadsheets/d/1ygIccpigmRt8BadH\_yJyh0vzlivAHZzkcGzgyem7Fyc/edit?usp=sharing).&#x20;
+Посмотреть свои ответы можно [тут](https://docs.google.com/spreadsheets/d/1ygIccpigmRt8BadH_yJyh0vzlivAHZzkcGzgyem7Fyc/edit?usp=sharing).&#x20;
 
 ### Осень - 2024
 
 Выбор курсов открывается 3 июля. \
-<mark style="color:red;">**Дедлайн по выбору курсов**</mark>** - 21 июля включительно.**
+<mark style="color:red;">**Дедлайн по выбору курсов**</mark>**&#x20;- 21 июля включительно.**
 
 Обновленная таблица кафедральных курсов - [версия 24.07](https://docs.google.com/spreadsheets/d/15jEmcTpRQv43BxzPzR21yLZXaZ-ELs0y6byN9Qnk1cc/edit?gid=615482154#gid=615482154).
 
-<mark style="color:red;">**ФОРМА ДЛЯ ВЫБОРА КУРСОВ**</mark>** -** ЕЕ НАДО ЗАПОЛНИТЬ**:** [**ТУТ**](https://forms.gle/sou1iLGsJszebvYm9)
+<mark style="color:red;">**ФОРМА ДЛЯ ВЫБОРА КУРСОВ**</mark>**&#x20;-** ЕЕ НАДО ЗАПОЛНИТ&#x42C;**:** [**ТУТ**](https://forms.gle/sou1iLGsJszebvYm9)
 
-Посмотреть свои ответы можно [тут](https://docs.google.com/spreadsheets/d/1e8wLF\_0PbmbX7g7Y4clwQ\_PYhOm9s68nlN6jDEhsLVs/edit?usp=sharing).&#x20;
+Посмотреть свои ответы можно [тут](https://docs.google.com/spreadsheets/d/1e8wLF_0PbmbX7g7Y4clwQ_PYhOm9s68nlN6jDEhsLVs/edit?usp=sharing).&#x20;
+
+### Весна - 2025
+
+Выбор курсов открывается 25 декабря. \
+<mark style="color:red;">**Дедлайн по выбору курсов**</mark>**&#x20;- 8 января включительно.**
+
+Обновленная таблица кафедральных курсов - [версия 24.12](https://docs.google.com/spreadsheets/d/15jEmcTpRQv43BxzPzR21yLZXaZ-ELs0y6byN9Qnk1cc/edit?gid=1687268987#gid=1687268987) (лист "Весна 2025")
+
+<mark style="color:red;">**ФОРМА ДЛЯ ВЫБОРА КУРСОВ**</mark>**&#x20;-** ЕЕ НАДО ЗАПОЛНИТЬ: [**ТУТ**](https://forms.gle/Fj2zS3MabrTgqNcL6)
+
+Посмотреть свои ответы можно [тут](https://docs.google.com/spreadsheets/d/1_K5SHsWSpMRjxJkV9I9-TEJvUvOpf3fDHn1s1z0tRuQ/edit?usp=sharing).&#x20;
