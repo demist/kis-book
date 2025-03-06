@@ -24,7 +24,7 @@
 
 ## Поступление на кафедру
 
-* [Правила поступления на кафедру в 2024 году](postuplenie-na-kafedru/pravila-postupleniya-na-kafedru-v-2024-godu.md)
+* [Правила поступления на кафедру в 2025 году](postuplenie-na-kafedru/pravila-postupleniya-na-kafedru-v-2024-godu.md)
 
 ## Архив <a href="#archive" id="archive"></a>
 
