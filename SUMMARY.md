@@ -31,3 +31,4 @@
 * [Защиты 2023](archive/zashity-2023.md)
 * [Защиты 2024](archive/zashity-2024.md)
 * [Правила поступления на кафедру в 2023 году](archive/pravila-postupleniya-na-kafedru-v-2023-godu.md)
+* [Правила поступления на кафедру в 2024 году](archive/pravila-postupleniya-na-kafedru-v-2024-godu.md)
