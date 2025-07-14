@@ -52,7 +52,7 @@ _(прошлые формулировки утеряны из-за бана ка
 
 Посмотреть свои ответы можно [тут](https://docs.google.com/spreadsheets/d/1m5fGYale40TL11luojGPDxlP-EcaJ8Vj0-IQMlae2sM/edit?usp=sharing).
 
-### Весна  - 2024
+### Весна - 2024
 
 Выбор курсов открывается 25 декабря. \
 <mark style="color:red;">**Дедлайн по выбору курсов**</mark>**&#x20;- 9 января включительно.**
@@ -84,3 +84,14 @@ _(прошлые формулировки утеряны из-за бана ка
 <mark style="color:red;">**ФОРМА ДЛЯ ВЫБОРА КУРСОВ**</mark>**&#x20;-** ЕЕ НАДО ЗАПОЛНИТЬ: [**ТУТ**](https://forms.gle/Fj2zS3MabrTgqNcL6)
 
 Посмотреть свои ответы можно [тут](https://docs.google.com/spreadsheets/d/1_K5SHsWSpMRjxJkV9I9-TEJvUvOpf3fDHn1s1z0tRuQ/edit?usp=sharing).&#x20;
+
+### Осень - 2025
+
+Выбор курсов открывается 14 июля.\
+<mark style="color:red;">**Дедлайн по выбору курсов**</mark> - 27 **июля включительно**.
+
+Обновленная таблица кафедральных курсов - [версия 25.07](https://docs.google.com/spreadsheets/d/15jEmcTpRQv43BxzPzR21yLZXaZ-ELs0y6byN9Qnk1cc/edit?gid=1872559183#gid=1872559183).
+
+<mark style="color:red;">**ФОРМА ДЛЯ ВЫБОРА КУРСОВ**</mark> (ЕЕ НАДО ЗАПОЛНИТЬ ВСЕМ, КРОМЕ СТУДЕНТОВ 4 КУРСА - **Студенты 4 курса делают выбор в приложении кафедры**): [ТУТ](https://forms.gle/8FrssiKusBDLbpgG7)
+
+Посмотреть свои ответы можно [тут](https://docs.google.com/spreadsheets/d/1pIT5UKosXlQZX_wK3dElzucn0Rw44_nX_bRsc1U9Jw8/edit?usp=sharing).
