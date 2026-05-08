@@ -7,6 +7,7 @@
 * [Объявления](obyavleniya.md)
 * [Диплом](diplom.md)
 * [Выбор курсов для запуска](informaciya/vybor-kursov-dlya-zapuska.md)
+* [Защиты 2026](informaciya/zashity-2026.md)
 
 ## Полезные ссылки
 
